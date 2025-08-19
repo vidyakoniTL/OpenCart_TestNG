@@ -1,0 +1,6 @@
+2025-07-27 23:35:37 INFO  TC_002_LoginTest:25 - **** Starting TC_002_LoginTest  ****
+2025-07-27 23:35:43 INFO  TC_002_LoginTest:36 - clicked on myaccount link on the home page..
+2025-07-27 23:35:48 INFO  TC_002_LoginTest:39 - clicked on login link under myaccount..
+2025-07-27 23:35:48 INFO  TC_002_LoginTest:44 - Entering valid email and password..
+2025-07-27 23:35:49 INFO  TC_002_LoginTest:48 - clicked on ligin button..
+2025-07-27 23:35:50 INFO  TC_002_LoginTest:62 - **** Finished TC_002_LoginTest  ****
